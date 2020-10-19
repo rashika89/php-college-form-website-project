@@ -15,11 +15,11 @@ font-family: 'Roboto', sans-serif;
 .container h1 {
     text-align: center;
     font-family: 'Sriracha', cursive;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 p{
-    font-size: 17px;
+    font-size: 20px;
     text-align: center;
     font-family: 'Sriracha', cursive;
 }
@@ -31,7 +31,7 @@ input, textarea{
     outline: none;
     font-size: 16px;
     width: 80%;
-    margin: 11px 0px;
+    margin: auto;
     padding: 7px;
 }
 form{
@@ -43,7 +43,7 @@ form{
 
 .btn{
     color: white;
-    background: purple;
+    background: black;
     padding: 8px 12px;
     font-size: 20px;
     border: 2px solid white;
